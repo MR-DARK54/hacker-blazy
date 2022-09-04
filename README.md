@@ -56,13 +56,23 @@ python2 blazy.py
 
 
 
+Then find the login panel and copy and paste the link into the tool 
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 # FOLLOW Me 
-
 
 Telegram 
 
